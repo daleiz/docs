@@ -1,4 +1,4 @@
-Streaming SQL quick reference
+SQL quick reference
 =============================
 
 ## CREATE STREAM
